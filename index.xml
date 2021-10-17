@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home - Hee-Soo Choi on </title>
+    <link>/</link>
+    <description>Recent content in Home - Hee-Soo Choi on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 17 Oct 2021 13:16:40 +0200</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Teaching - Hee-Soo Choi</title>
+      <link>/teaching/</link>
+      <pubDate>Sun, 17 Oct 2021 13:16:40 +0200</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Teaching Teaching in French at Université de Lorraine
+Traitement de corpus - Python L2 Sciences du Langage (TD 24h)
+ Introduction à l&amp;rsquo;algorithmique | Cours / TD Les bases de Python | Cours / TD  </description>
+    </item>
+    
+    <item>
+      <title>Publications - Hee-Soo Choi</title>
+      <link>/publications/</link>
+      <pubDate>Sun, 17 Oct 2021 13:16:26 +0200</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Publications   Investigating Dominant Word Order on Universal Dependencies with Graph Rewriting, Hee-Soo Choi, Bruno Guillaume, Karën Fort, Guy Perrier, Recent Advances in Natural Language Processing (RANLP2021), September 2021, Online, Bulgaria
+  Vérification d&amp;rsquo;universaux linguistiques sur des corpus multilingues annotés en syntaxe de dépendances, Hee-Soo Choi, Mémoire de master 2 Langue et Informatique, Sorbonne Université, Septembre 2021
+  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
+Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
+Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+    </item>
+    
+    <item>
+      <title>Contact- Hee-Soo Choi</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description>Contact Emails  hee-soo.choi@loria.fr hee-soo.choi@univ-lorraine.fr  Addresses LORIA, B230
+Campus Scientifique, 615 Rue du Jardin-Botanique, 54500 Vandœuvre-lès-Nancy
+ATILF
+44 Av. de la Libération, 54000 Nancy</description>
+    </item>
+    
+  </channel>
+</rss>
