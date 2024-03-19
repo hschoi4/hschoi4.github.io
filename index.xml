@@ -4,51 +4,37 @@
     <title>Home - Hee-Soo Choi on </title>
     <link>/</link>
     <description>Recent content in Home - Hee-Soo Choi on </description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 17 Oct 2021 13:16:40 +0200</lastBuildDate>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Teaching - Hee-Soo Choi</title>
       <link>/teaching/</link>
       <pubDate>Sun, 17 Oct 2021 13:16:40 +0200</pubDate>
-      
       <guid>/teaching/</guid>
-      <description>Teaching  Teaching in French at Université de Lorraine
-Traitement de corpus - Python L2 Science du Langage (TD 24h)
- Introduction à l&amp;rsquo;algorithmique | Cours / TD Bases de Python | Cours / TD Listes | Cours / TD Dictionnaires et Traitement de textes | Cours / TD Manipulation de fichiers | Cours / TD Analyse de textes et graphique | TD  </description>
+      <description>Teaching Teaching in French at Université de Lorraine&#xA;Traitement de corpus - Python L2 Science du Langage (TD 24h)&#xA;Introduction à l&amp;rsquo;algorithmique | Cours / TD Bases de Python | Cours / TD Listes | Cours / TD Dictionnaires et Traitement de textes | Cours / TD Manipulation de fichiers | Cours / TD Analyse de textes et graphique | TD </description>
     </item>
-    
     <item>
       <title>Publications - Hee-Soo Choi</title>
       <link>/publications/</link>
       <pubDate>Sun, 17 Oct 2021 13:16:26 +0200</pubDate>
-      
       <guid>/publications/</guid>
-      <description>Publications  2022   État de l&amp;rsquo;art : Liage de ressources lexicales du français, Hee-Soo Choi, Actes de la 24e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL) juin 2022, Avignon, France
-  Corpus-based Language Universals Analysis using Universal Dependencies, Hee-Soo Choi, Bruno Guillaume, Karën Fort, Quantitative Syntax (QUASY), SyntaxFest 2021, March 2022, Sofia, Bulgaria
-  2021   Analyse orientée corpus d&amp;rsquo;universaux de Greenberg sur Universal Dependencies, Hee-Soo Choi, Bruno Guillaume, Karën Fort, GDR LIFT Linguistique Informatique, Formelle et de Terrain 2021, décembre 2021, Grenoble, France</description>
+      <description>Publications 2023 Des ressources lexicales du français et de leur utilisation en TAL : étude des actes de TALN, Hee-Soo Choi, Karën Fort, Bruno Guillaume, Mathieu Constant, Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN) juin 2023, Paris, France 2022 État de l&amp;rsquo;art : Liage de ressources lexicales du français, Hee-Soo Choi, Actes de la 24e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL) juin 2022, Avignon, France</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/about/</guid>
-      <description>About Me  This is a Hugo based resume template. You can find the full source code on GitHub.
-Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.
-Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
+      <description>About Me This is a Hugo based resume template. You can find the full source code on GitHub.&#xA;Research Interest Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis1. Mauris id urna ante.&#xA;Fusce pharetra diam ac nisi aliquet, velegestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit2. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.</description>
     </item>
-    
     <item>
       <title>Contact- Hee-Soo Choi</title>
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>/contact/</guid>
-      <description>Contact  Emails  hee-soo.choi@univ-lorraine.fr hee-soo.choi@loria.fr hchoi@atilf.fr  Addresses ATILF, Bureau 109
-Campus de Lettres, 44 Av. de la Libération, 54000 Nancy
-LORIA, Bureau B230
-Campus de Sciences, 615 Rue du Jardin-Botanique, 54500 Vandœuvre-lès-Nancy</description>
+      <description>Contact Emails hee-soo.choi@univ-lorraine.fr hee-soo.choi@loria.fr hchoi@atilf.fr Addresses ATILF, Bureau 109&#xA;Campus de Lettres, 44 Av. de la Libération, 54000 Nancy&#xA;LORIA, Bureau B230&#xA;Campus de Sciences, 615 Rue du Jardin-Botanique, 54500 Vandœuvre-lès-Nancy</description>
     </item>
-    
   </channel>
 </rss>
