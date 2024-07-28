@@ -4,7 +4,7 @@
     <title>Home - Hee-Soo Choi on </title>
     <link>/</link>
     <description>Recent content in Home - Hee-Soo Choi on </description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 17 Oct 2021 13:16:40 +0200</lastBuildDate>
     <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -20,7 +20,7 @@
       <link>/publications/</link>
       <pubDate>Sun, 17 Oct 2021 13:16:26 +0200</pubDate>
       <guid>/publications/</guid>
-      <description>Publications 2024 Beyond Model Performance: Can Link Prediction Enrich French Lexical Graphs?, Hee-Soo Choi, Priyansh Trivedi, Mathieu Constant, Karën Fort, Bruno Guillaume, The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING), May 2024, Turin, Italy 2023 Des ressources lexicales du français et de leur utilisation en TAL : étude des actes de TALN, Hee-Soo Choi, Karën Fort, Bruno Guillaume, Mathieu Constant, Actes de la 30e Conférence sur le Traitement Automatique des Langues Naturelles (TALN) juin 2023, Paris, France 2022 État de l&amp;rsquo;art : Liage de ressources lexicales du français, Hee-Soo Choi, Actes de la 24e Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RÉCITAL) juin 2022, Avignon, France</description>
+      <description>Publications 2024 Mitigating Data Scarcity in Cross-lingual Semantic Parsing: the Multilingual Semantic Layer and its Dataset, Martı́nez Lorenzo, Abelardo Carlos, Huguet Cabot, Pere Lluı́s, Ghonim, Karim, Xu, Lu, Choi, Hee-Soo, Fernandez Castro, Alberte, and Navigli, Roberto, Findings of the Association for Computational Linguistics: ACL 2024, August 2024, Bangkok, Thailand&#xA;Au-delà de la performance des modèles : la prédiction de liens peut-elle enrichir des graphes lexico-sémantiques du français ?, Hee-Soo Choi, Priyansh Trivedi, Mathieu Constant, Karën Fort, Bruno Guillaume, Actes de la 31e Conférence sur le Traitement Automatique des Langues Naturelles (TALN) juillet 2024, Toulouse, France</description>
     </item>
     <item>
       <title>About</title>
@@ -34,7 +34,7 @@
       <link>/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/contact/</guid>
-      <description>Contact Emails hee-soo.choi@univ-lorraine.fr hee-soo.choi@loria.fr hchoi@atilf.fr Addresses ATILF, Bureau 109&#xA;Campus de Lettres, 44 Av. de la Libération, 54000 Nancy&#xA;LORIA, Bureau B215&#xA;Campus de Sciences, 615 Rue du Jardin-Botanique, 54500 Vandœuvre-lès-Nancy</description>
+      <description>Contact Emails hee-soo.choi@univ-lorraine.fr hee-soo.choi@loria.fr hchoi@atilf.fr Addresses ATILF, Bureau 107&#xA;Campus de Lettres, 44 Av. de la Libération, 54000 Nancy&#xA;LORIA, Bureau B215&#xA;Campus de Sciences, 615 Rue du Jardin-Botanique, 54500 Vandœuvre-lès-Nancy</description>
     </item>
   </channel>
 </rss>
